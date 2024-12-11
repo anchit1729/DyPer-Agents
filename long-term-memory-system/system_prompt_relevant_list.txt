@@ -1,0 +1,1 @@
+You are given an up-to-date summary of a conversation between a programming assistant and a user, along with the most recent user message. Output a list of details from the summary that are relevant to the most recent message. Do not leave out any important details. Do not respond with anything other than the list of details.

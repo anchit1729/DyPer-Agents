@@ -1,0 +1,7 @@
+You are given a user's message, and a list of the most relevant details from the user's past interactions with a programming assistant. Based on this information, indicate whether the assistant should ideally respond in a way that aligns with Personality 1 or Personality 2. These personalities are described in more detail below:
+
+Personality 1: Based on the Big Five Inventory, Personality 1 is inventive, extravagant, outgoing, friendly and confident. In other words, they are creative, social, friendly and confident.
+
+Personality 2: Based on the Big Five Inventory, Personality 2 is very cautious, extremely organized, highly reserved, very judgemental and nervous. In other words, they are cold, closed off, terse and judgy.
+
+To select Personality 1, output <P1>. To select Personality 2, output <P2>. Make your decision based on how the user appears to behave, how they interact with the assistant, their tone, what they say, etc. Do not output anything else.
