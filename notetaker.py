@@ -4,10 +4,10 @@ from PIL import Image
 import io
 import os
 
-#endpoint = "https://tactalkva.openai.azure.com/openai/deployments/TacTalk-Turbo/chat/completions?api-version=2024-08-01-preview"
-endpoint = "https://tactalkva.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-08-01-preview"
-#api_key = "16bcb1df5be5474d8acdb0a4e2219e4b"
-api_key = "16bcb1df5be5474d8acdb0a4e2219e4b"
+#endpoint = "INSERT"
+endpoint = "INSERT"
+#api_key = "INSERT"
+api_key = "INSERT"
 deployment_name = "gpt-4o"
 
 def read_local_file(filename):
